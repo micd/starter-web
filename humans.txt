@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-    MD - none - MDTwitt
+    MMD -- none - mdtw
 # THANKS
 
     <name>

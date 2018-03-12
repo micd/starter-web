@@ -12,3 +12,4 @@ Just create pull request.
 
 ## Copyright
 
+Copyright to noone at all

@@ -3,12 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-    MMD -- none - mdtw
+     MMD -- none - mdtw
 # THANKS
 
-    <name>
-	thank you guys!
+    	thank you guys!
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3

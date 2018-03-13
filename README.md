@@ -12,4 +12,4 @@ Just create pull request.
 
 ## Copyright
 
-Copyright to noone at all. Noone! 0!
+Copyright to noone.

@@ -4,9 +4,7 @@
 # TEAM
 
      MMD -- none - mdtw
-# THANKS
 
-    	thank you guys!
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3

@@ -6,10 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## How to contribute 
-
-Just create pull request.
-
 ## Copyright
 
 Copyright to noone.
